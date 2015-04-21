@@ -50,6 +50,8 @@ function test() {
 }
 ```</code></pre>
 
+which will be rendered as:
+
 ```javascript
 function test() {
   console.log("Hello, world");
